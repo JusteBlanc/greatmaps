@@ -107,6 +107,7 @@ namespace GMap.NET.MapProviders
       ///   {3}: End longitude
       ///   {4}: TravelType (Walking|Driving)
       ///   {5}: GetInstruction (0|1)
+      ///   {6}: Language
       /// </summary>
       public string RoutingUrlFormat
       {
